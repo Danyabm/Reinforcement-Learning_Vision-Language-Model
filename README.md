@@ -14,6 +14,7 @@ Check if task is completed
 
 **Results & Demo**
 
+<img width="221" height="221" alt="image" src="https://github.com/user-attachments/assets/56437d23-c628-4feb-b468-d3072e6c2b3f" />
 
 
 **Problem 1.1: Training & Evaluation**
