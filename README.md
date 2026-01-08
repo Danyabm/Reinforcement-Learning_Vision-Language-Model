@@ -28,12 +28,12 @@ Success Rate: 27.0%
 Video: success.mp4 (Episode 32)
 
 **Problem 1.2: VLM Task Description**
-<img width="221" height="221" alt="image" src="https://github.com/user-attachments/assets/56437d23-c628-4feb-b468-d3072e6c2b3f" />
+
 Initial Scene Description:
 
 <img width="515" height="101" alt="image" src="https://github.com/user-attachments/assets/1ffbf6e1-41da-46d2-aa09-db28151a777a" />
 
-
+<img width="221" height="221" alt="image" src="https://github.com/user-attachments/assets/56437d23-c628-4feb-b468-d3072e6c2b3f" />
 
 **Problem 2: VLM Goal Detection**
 Final Scene Analysis:
