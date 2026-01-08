@@ -14,7 +14,11 @@ Check if task is completed
 
 **Results & Demo**
 
-https://github.com/Danyabm/Reinforcement-Learning_Vision-Language-Model/blob/main/success.mp4
+
+
+https://github.com/user-attachments/assets/72627312-2791-4898-9719-b40d4495bfef
+
+
 
 **Problem 1.1: Training & Evaluation**
 Success Rate: 27.0% (27/100 episodes)
