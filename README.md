@@ -14,7 +14,8 @@ Check if task is completed
 
 **Results & Demo**
 
-**Results**
+
+
 **Problem 1.1: Training & Evaluation**
 Success Rate: 27.0% (27/100 episodes)
 
