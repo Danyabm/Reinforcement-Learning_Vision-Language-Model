@@ -31,6 +31,7 @@ Initial Scene Description:
 
 "The image depicts a robotic arm, specifically a robotic arm of a manufacturing robot, performing a task on a wooden table, where it is carefully placing a small cube on a target, which is marked with a bullseye symbol, indicating that the task is to accurately place the cube on the target, as evidenced by the robotic arm's precise movements and the cube's position on the target."
 
+
 **Problem 2: VLM Goal Detection**
 Final Scene Analysis:
 
